@@ -1,8 +1,4 @@
 /*
-Ben Hall
-Section 05
-Lab 05
-9/28
 */
 /* A simple calculator program,
 controlled by a menu and 
